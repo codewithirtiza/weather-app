@@ -18,20 +18,9 @@ A simple weather app built with HTML, CSS, and JavaScript. It lets users search 
 
 ---
 
-## 📸 Preview
-
-![Weahter App screenshot](img/Preveiw.png)
-
----
-
 ## 🚀 How to Use
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   ```
-2. Open index.html in your browser.
-3. Enter the city name and click the search button or press Enter.
+You can view the project by clicking [view](https://weather-app.netlify.app)
 
 ## 🔧 Built with
 
@@ -44,16 +33,11 @@ A simple weather app built with HTML, CSS, and JavaScript. It lets users search 
 
 ```
 WEATHER APP/
-│
-├── html/
-│ └── index.html
-│
+│── index.html
 ├── css/
 │ └── style.css
-│
 ├── js/
 │ └── script.js
-│
 ├── README.md
 ```
 
