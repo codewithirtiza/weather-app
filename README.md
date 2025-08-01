@@ -20,7 +20,7 @@ A simple weather app built with HTML, CSS, and JavaScript. It lets users search 
 
 ## 🚀 How to Use
 
-You can view the project by clicking [view](https://weather-app.netlify.app)
+You can view the project by clicking [view](https://weather-app-browser.netlify.app)
 
 ## 🔧 Built with
 
